@@ -2043,3 +2043,13 @@ section,
     transform: rotate(360deg);
   }
 }
+
+
+.image-1{
+    height:80px;
+    width: 80px;
+    padding: 10px;
+}
+.image-size{
+  width:50rem;
+}
